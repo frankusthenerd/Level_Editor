@@ -1,0 +1,4 @@
+width=400
+height=300
+layers=background,bkg-object,platform,character,fg-object,foreground,overlay
+palette=Super_Mario_World
